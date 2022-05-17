@@ -1,0 +1,1 @@
+[{"model":"Volga","price":"7000000"},{"model":"Lada","price":"5000000"},{"model":"BMW","price":"50000000"},{"model":"KIA","price":"10000000"},{"model":"KIAA","price":"100000000"},{"model":"AUDI","price":"13000000"}]
